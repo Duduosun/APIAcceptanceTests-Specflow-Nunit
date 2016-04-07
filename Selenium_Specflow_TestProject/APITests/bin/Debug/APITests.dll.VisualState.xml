@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1019]C:\Users\s.vakathanam\Dropbox\PracticalTest\Selenium_Specflow_TestProject\APITests\bin\Debug\APITests.dll</TopNode>
+  <SelectedNode>[0-1019]C:\Users\s.vakathanam\Dropbox\PracticalTest\Selenium_Specflow_TestProject\APITests\bin\Debug\APITests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1019]C:\Users\s.vakathanam\Dropbox\PracticalTest\Selenium_Specflow_TestProject\APITests\bin\Debug\APITests.dll" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1020]APITests" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1021]APITests.NunitTests" Expanded="true" />
+    <Node UniqueName="[0-1000]APITests.NunitTests.APITests" Expanded="true" />
+    <Node UniqueName="[0-1016]APITests.NunitTests.APITests.AdvancedSearchPageTests" Expanded="true" />
+    <Node UniqueName="[0-1005]APITests.NunitTests.APITests.CategoryPageTests" Expanded="true" />
+    <Node UniqueName="[0-1001]APITests.NunitTests.APITests.ProductPageTests" Expanded="true" />
+    <Node UniqueName="[0-1013]APITests.NunitTests.APITests.SearchPageTests" Expanded="true" />
+  </Nodes>
+</VisualState>

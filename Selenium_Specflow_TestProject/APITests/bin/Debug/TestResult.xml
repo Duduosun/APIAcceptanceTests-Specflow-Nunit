@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\s.vakathanam\Dropbox\PracticalTest\Selenium_Specflow_TestProject\APITests\bin\Debug\APITests.dll" total="14" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-03-06" time="16:32:59">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\NUnit-2.6.3\bin" machine-name="EUGENE-DEV" user="s.vakathanam" user-domain="LIVEBOOKINGS" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\s.vakathanam\Dropbox\PracticalTest\Selenium_Specflow_TestProject\APITests\bin\Debug\APITests.dll" executed="True" result="Success" success="True" time="11.087" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="APITests" executed="True" result="Success" success="True" time="11.079" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="NunitTests" executed="True" result="Success" success="True" time="11.078" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="APITests" executed="True" result="Success" success="True" time="11.077" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="AdvancedSearchPageTests" executed="True" result="Success" success="True" time="4.193" asserts="0">
+                    <results>
+                      <test-case name="APITests.NunitTests.APITests.AdvancedSearchPageTests(&quot;Nikon&quot;,&quot;300&quot;,&quot;500&quot;,&quot;12&quot;,&quot;18&quot;,200)" executed="True" result="Success" success="True" time="3.689" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.AdvancedSearchPageTests(&quot;Leica&quot;,&quot;300&quot;,&quot;500&quot;,&quot;12&quot;,&quot;18&quot;,200)" executed="True" result="Success" success="True" time="0.487" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="CategoryPageTests" executed="True" result="Success" success="True" time="5.512" asserts="0">
+                    <results>
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;brand&quot;,&quot;Canon&quot;,200)" executed="True" result="Success" success="True" time="2.677" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;type&quot;,&quot;UltraCompact&quot;,200)" executed="True" result="Success" success="True" time="0.273" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;price&quot;,&quot;2000&quot;,200)" executed="True" result="Success" success="True" time="0.217" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;sensor&quot;,&quot;Full-Frame&quot;,200)" executed="True" result="Success" success="True" time="0.569" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;color&quot;,&quot;Black&quot;,200)" executed="True" result="Success" success="True" time="0.838" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;feature&quot;,&quot;GPS&quot;,200)" executed="True" result="Success" success="True" time="0.718" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.CategoryPageTests(&quot;unknown&quot;,&quot;SONY&quot;,404)" executed="True" result="Success" success="True" time="0.186" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="ProductPageTests" executed="True" result="Success" success="True" time="0.578" asserts="0">
+                    <results>
+                      <test-case name="APITests.NunitTests.APITests.ProductPageTests(&quot;olympus-pen-f&quot;,200)" executed="True" result="Success" success="True" time="0.196" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.ProductPageTests(&quot;fujifilm-x-pro2&quot;,200)" executed="True" result="Success" success="True" time="0.188" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.ProductPageTests(&quot;nonexistingitem&quot;,500)" executed="True" result="Success" success="True" time="0.181" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="ParameterizedTest" name="SearchPageTests" executed="True" result="Success" success="True" time="0.761" asserts="0">
+                    <results>
+                      <test-case name="APITests.NunitTests.APITests.SearchPageTests(&quot;Nikon&quot;,200)" executed="True" result="Success" success="True" time="0.414" asserts="1" />
+                      <test-case name="APITests.NunitTests.APITests.SearchPageTests(&quot;Pentax&quot;,200)" executed="True" result="Success" success="True" time="0.340" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
